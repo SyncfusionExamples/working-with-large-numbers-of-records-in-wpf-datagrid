@@ -5,8 +5,14 @@ In this way, datagrid provides the same loading time for 1K records and 1 millio
 
 In addition to that datagrid provides option to show built-in busy indicator for long running operations by setting [ShowbusyIndicator](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.SfDataGrid~ShowBusyIndicator.html) as `true` to enhance the user experience.
 
-<b>Reference</b>
+## Reference
 
 [WPF DataGrid Performance](https://help.syncfusion.com/wpf/sfdatagrid/performance)
 
 [WPF DataGrid](https://www.syncfusion.com/products/wpf-ui-controls/datagrid)
+
+## Other examples
+
+[WPF DataGrid - Scrolling performance with more number of rows and columns example](https://github.com/SyncfusionExamples/wpf-datagrid-scrolling-performance-with-more-rows-and-columns)
+
+[WPF DataGrid Performance - Asynchronous scrolling example](https://github.com/SyncfusionExamples/wpf-datagrid-asynchronous-scrolling)
